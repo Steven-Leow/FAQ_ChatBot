@@ -1,0 +1,43 @@
+{
+  "shipping": {
+    "general": "We offer standard, express, and international shipping options. Shipping times vary by location.",
+    "cost": "Standard shipping is free on all orders over $50. Express shipping fees depend on your location and will be calculated at checkout.",
+    "time": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days within the country.",
+    "tracking": "Once your order is shipped, we'll send you a tracking number via email."
+  },
+  "returns": {
+    "policy": "You can return any product within 30 days of purchase for a full refund. Items must be unused and in their original packaging.",
+    "process": "To start a return, contact our support team or go to the returns section on our website to get a prepaid return label.",
+    "refund_time": "Refunds are processed within 5-7 business days after we receive the returned items."
+  },
+  "payments": {
+    "methods": "We accept Visa, MasterCard, American Express, and PayPal. Apple Pay and Google Pay are also available for mobile users.",
+    "security": "All transactions are securely encrypted. Your payment information is never stored on our servers.",
+    "issues": "If you're having trouble with payment, please try a different card or contact your bank. You can also reach out to our support team for assistance."
+  },
+  "account": {
+    "create": "To create an account, click on the 'Sign Up' button at the top of our homepage and fill in the required information.",
+    "password_reset": "If you've forgotten your password, click 'Forgot Password' on the login page and follow the instructions to reset it.",
+    "update_info": "To update your personal information, log in to your account and go to 'Account Settings'."
+  },
+  "products": {
+    "availability": "Product availability is shown on the product page. If an item is out of stock, you can sign up for notifications to be alerted when it's back.",
+    "sizing": "Each product has a size guide link on the product page. For further assistance, contact our support team.",
+    "care_instructions": "Care instructions are provided on each product page under 'Product Details'."
+  },
+  "order": {
+    "status": "To check your order status, log into your account and go to 'My Orders'. You'll find updates on processing, shipping, and delivery.",
+    "cancel": "You can cancel your order within 2 hours of placing it by going to 'My Orders' and selecting 'Cancel'. After that, please contact support.",
+    "change": "If you need to modify your order, please contact support within 2 hours of purchase. We'll do our best to accommodate changes."
+  },
+  "discounts": {
+    "codes": "Promo codes can be applied at checkout. Make sure they haven't expired and meet the minimum order requirements.",
+    "eligibility": "Some discounts are limited to certain items or categories. Check the promotion's terms and conditions for details.",
+    "gift_cards": "Gift cards are available in various amounts. They can be purchased on our website and redeemed during checkout."
+  },
+  "contact": {
+    "email": "You can reach us by email at support@example.com. Our team is available Monday to Friday, 9 AM - 5 PM.",
+    "phone": "For urgent inquiries, call us at (123) 456-7890. Our phone lines are open Monday to Friday, 9 AM - 5 PM.",
+    "live_chat": "Live chat support is available on our website during business hours. Look for the chat icon in the bottom right corner."
+  }
+}
