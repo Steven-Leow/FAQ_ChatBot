@@ -1,27 +1,3 @@
-# import nltk
-# import difflib
-# from random import choice
-# from nltk.corpus import stopwords
-# from nltk.tokenize import word_tokenize
-
-# # Function to match keywords with NLTK processing
-# def match_keyword(user_input):
-#     # Tokenize input and remove stop words
-#     stop_words = set(stopwords.words('english'))
-#     tokens = word_tokenize(user_input)
-#     filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]
-#     print(filtered_tokens)
-    
-#     # Flatten synonyms into one list
-#     all_keywords = {word: key for key, words in synonyms.items() for word in words}
-
-#     for token in filtered_tokens:
-#         close_matches = difflib.get_close_matches(token, all_keywords.keys(), n=1, cutoff=0.8)
-#         if close_matches:
-#             return all_keywords[close_matches[0]]
-    
-#     return None
-
 import json
 import torch
 from transformers import pipeline
