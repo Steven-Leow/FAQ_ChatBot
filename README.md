@@ -51,6 +51,3 @@ uvicorn main:app --host localhost --port 8000
 - Add support for multiple languages
 - Implement a frontend UI
 
-## License
-MIT License
-
